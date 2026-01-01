@@ -5,11 +5,59 @@
   "author": "Kuriyama Mizuki",
   "cover": "https://mangadex.org/covers/decbf626-f76a-4da6-96f8-8ae084718c42/6cc5b72b-1430-4d60-8e99-697657667365.jpg",
   "chapters": {
-    "188": {
-      "title": "Attack Plan ①",
+      "188": {
+      "title": "Attack Plan (1)",
       "volume": "16",
       "groups": {
         "Group098": "/proxy/api/catbox/chapter/402pq0/"
+      },
+      "last_updated": ""
+    },
+      "189": {
+      "title": "Attack Plan (2)",
+      "volume": "16",
+      "groups": {
+        "Group098": "/proxy/api/catbox/chapter/7js51p/"
+      },
+      "last_updated": ""
+    },
+      "190": {
+      "title": "Attack Plan (3)",
+      "volume": "16",
+      "groups": {
+        "Group098": "/proxy/api/catbox/chapter/f5s5v0/"
+      },
+      "last_updated": ""
+    },
+      "191": {
+      "title": "Attack Plan (4)",
+      "volume": "16",
+      "groups": {
+        "Group098": "/proxy/api/catbox/chapter/ov59s4/"
+      },
+      "last_updated": ""
+    },
+      "192": {
+      "title": "Attack Plan (5)",
+      "volume": "16",
+      "groups": {
+        "Group098": "/proxy/api/catbox/chapter/2dzj78/"
+      },
+      "last_updated": ""
+    },
+      "193": {
+      "title": "Attack Plan (6)",
+      "volume": "16",
+      "groups": {
+        "Group098": "/proxy/api/catbox/chapter/j64mwi/"
+      },
+      "last_updated": ""
+    },
+      "193.5": {
+      "title": "Omake",
+      "volume": "16",
+      "groups": {
+        "Group098": "/proxy/api/catbox/chapter/ojbsi6/"
       },
       "last_updated": ""
     }
